@@ -25,14 +25,26 @@
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  <img src="https://github-readme-stats.vercel.app/api?username=baseergroot&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseergroot&layout=compact&theme=radical" alt="Top Languages" />
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**Web3:**  
+![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=baseergroot&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseergroot&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-githubbs7-181717?style=for-the-badge&logo=github)](https://github.com/githubbs7)  
+[![GitHub](https://img.shields.io/badge/GitHub-baseergroot-181717?style=for-the-badge&logo=github)](https://github.com/baseergroot)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/qr/3B2FR3YUWNDTI1)  
 
 ---
