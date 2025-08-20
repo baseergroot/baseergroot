@@ -30,9 +30,6 @@
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-**Web3:**  
-![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
-
 ---
 
 ## 📊 GitHub Stats  
