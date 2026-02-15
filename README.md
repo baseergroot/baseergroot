@@ -1,51 +1,75 @@
-<h1 align="center">Hi 👋, I'm Baseer Afridi</h1>
-<h3 align="center">Passionate Full-Stack Developer | Problem Solver | Fast Learner</h3>
-
+<h1 align="center">Baseer Afridi</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F74D5C&center=true&width=435&lines=Frontend+%7C+Backend+%7C+Web3;Problem+Solver+%7C+Fast+Learner;Building+the+Next+Big+Thing+%F0%9F%9A%80" alt="Typing SVG" />
+Full-Stack Developer | JavaScript & Python | Backend-Focused Engineer
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎯 **Focused on:** Full-Stack Development (React.js, Next.js)  
-- 🌐 **Building With:** HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js  
-- 🌱 **Learning:** Web3 and Backend Development  
+## About Me
+
+I am a Full-Stack Developer focused on building scalable, production-ready web applications.  
+My primary strength is designing clean backend architectures and integrating secure authentication and payment systems.
+
+I prioritize performance, maintainability, and real-world usability over hype.
 
 ---
 
-## 🔥 My Tech Stack  
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+## Tech Stack
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+### Frontend
+- Next.js
+- React.js
+- Tailwind CSS
+- shadcn/ui
+- JavaScript (ES6+)
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+### Backend
+- Python
+- FastAPI
+- Node.js
+- Express.js
+
+### Databases
+- MongoDB
+- RESTful API Design
+
+### Core Skills
+- Authentication (JWT, session-based auth)
+- Payment Integration (Stripe / payment gateways)
+- API Development
+- Full-Stack Architecture
+- Secure Application Design
 
 ---
 
-## 📊 GitHub Stats  
+## Selected Focus Areas
+
+- Building SaaS-ready applications
+- Implementing authentication flows
+- Payment gateway integration
+- Backend API optimization
+- Clean UI systems using shadcn + Tailwind
+
+---
+
+## GitHub Stats
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=baseergroot&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseergroot&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=baseergroot&show_icons=true&hide_border=true" 
+    alt="GitHub Stats"
+  />
 </p>
 
----
 
-## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-baseergroot-181717?style=for-the-badge&logo=github)](https://github.com/baseergroot)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/qr/3B2FR3YUWNDTI1)  
 
 ---
 
-⭐️ *Feel free to check out my repositories and drop a star!* ⭐️  
+## Contact
+
+- GitHub: https://github.com/baseergroot
+- WhatsApp: https://wa.me/qr/3B2FR3YUWNDTI1
 
 ---
+
+Open to full-stack and backend-focused opportunities.
