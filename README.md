@@ -31,6 +31,8 @@ I specialize in designing secure APIs, implementing authentication systems, and 
 
 ### Database
 - MongoDB
+- PostgreSQL
+- SQLite
 
 ---
 
