@@ -1,74 +1,66 @@
 <h1 align="center">Baseer Afridi</h1>
 <p align="center">
-Full-Stack Developer | JavaScript & Python | Backend-Focused Engineer
+Full-Stack Developer | Python & JavaScript | Backend-Focused Engineer
 </p>
 
 ---
 
-## About Me
+## Profile
 
-I am a Full-Stack Developer focused on building scalable, production-ready web applications.  
-My primary strength is designing clean backend architectures and integrating secure authentication and payment systems.
+Full-stack developer focused on building production-ready web applications with strong backend architecture.
 
-I prioritize performance, maintainability, and real-world usability over hype.
+I specialize in designing secure APIs, implementing authentication systems, and integrating payment solutions. My approach prioritizes scalability, clean structure, and maintainable code.
 
 ---
 
-## Tech Stack
-
-### Frontend
-- Next.js
-- React.js
-- Tailwind CSS
-- shadcn/ui
-- JavaScript (ES6+)
+## Core Stack
 
 ### Backend
 - Python
 - FastAPI
 - Node.js
 - Express.js
-
-### Databases
-- MongoDB
 - RESTful API Design
 
-### Core Skills
-- Authentication (JWT, session-based auth)
-- Payment Integration (Stripe / payment gateways)
-- API Development
-- Full-Stack Architecture
-- Secure Application Design
+### Frontend
+- Next.js
+- React.js
+- Tailwind CSS
+- shadcn/ui
+- Modern JavaScript (ES6+)
+
+### Database
+- MongoDB
 
 ---
 
-## Selected Focus Areas
+## Engineering Focus
 
-- Building SaaS-ready applications
-- Implementing authentication flows
-- Payment gateway integration
-- Backend API optimization
-- Clean UI systems using shadcn + Tailwind
+- Secure Authentication (JWT, session-based auth)
+- Payment Gateway Integration (Stripe and similar providers)
+- API Architecture & Backend Structuring
+- SaaS Application Development
+- Clean UI Systems with scalable component design
 
 ---
 
-## GitHub Stats
+## Selected Projects
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=baseergroot&show_icons=true&hide_border=true" 
-    alt="GitHub Stats"
-  />
-</p>
+Below are pinned repositories that represent:
 
+- Real-world authentication flows
+- Payment integration systems
+- Full-stack SaaS architecture
+- Clean and maintainable codebases
 
+(See pinned repositories.)
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/baseergroot
-- WhatsApp: https://wa.me/qr/3B2FR3YUWNDTI1
+GitHub: https://github.com/baseergroot  
+WhatsApp: https://wa.me/qr/3B2FR3YUWNDTI1  
 
 ---
 
